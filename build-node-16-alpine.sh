@@ -5,7 +5,7 @@ echo '打包镜像...'
 export CONTAINER_REGISTRY=docker.io
 export CONTAINER_REGISTRY_NAMESPACE=chf007
 export IMAGE_NAME=pnpm
-export IMAGE_VERSION=6.32.3-alpine
+export IMAGE_VERSION=7.11.0-alpine
 export DOCKER_BUILDKIT=1
 docker build --pull \
 --build-arg IMAGE_VERSION=$IMAGE_VERSION \

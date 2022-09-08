@@ -12,6 +12,6 @@
 ## 使用
 ```shell
 docker pull chf007/pnpm
-docker pull chf007/pnpm:6.32.3-alpine
+docker pull chf007/pnpm:7.11.0-alpine
 ```
 
