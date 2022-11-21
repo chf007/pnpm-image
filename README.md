@@ -15,6 +15,6 @@ https://hub.docker.com/r/chf007/pnpm
 
 ```shell
 docker pull chf007/pnpm
-docker pull chf007/pnpm:7.11.0-alpine
+docker pull chf007/pnpm:7.17.0-alpine
 ```
 
